@@ -1,4 +1,4 @@
-## This is a custimized gcc to support syzPatch project
+## This is a custimized gcc to support KLAUS
 ## setup
 ```
 # build GCC
